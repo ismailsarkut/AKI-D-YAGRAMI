@@ -1,0 +1,27 @@
+AKIŞ DİYAGRAMLARI 
+
+Global olan semboller ile kod yazmadan önce oluşturduğumuz algoritmaya akış diyagramı diyebiliriz.
+
+Belli başlı olan semboller vardır ve her birinin kendine özgü anlamı mevcuttur.
+
+Yazılan kodun belli bir yapıt üzerine oluşturmak için ve daha kolay, planlı yazılması için kullanılan semboller diyebiliriz.
+
+Aşağıdaki örnekte olduğu gibi ilerlenebilir ;
+
+BAŞLA
+  '
+  '
+ a,b
+  '
+  '
+sonuc=(a+b)
+  '
+  '
+ sonuc
+  '
+  '
+ Bitir
+
+
+
+
